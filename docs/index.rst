@@ -6,10 +6,20 @@
 Welcome to HRRR-B's documentation!
 ==================================
 
+.. note::
+   This is a work in progress
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 🏡 Home
 
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :caption: ⚙ Code
+
+   /hrrrb
+   /utils
 
 
 Indices and tables
