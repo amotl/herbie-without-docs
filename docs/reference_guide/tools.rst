@@ -12,5 +12,5 @@ herbie.tools
 
    bulk_download
    xr_concat_sameRun
-   xr_concatSameLead
+   xr_concat_sameLead
    nearest_points
